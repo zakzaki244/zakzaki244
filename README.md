@@ -2,7 +2,7 @@
 
 
 # Mon CV
-Il sera présent sous forme d'un [PDF](https://github.com/zakzaki244/zakzaki244/blob/main/CV%20Zak%20finie.pdf)
+Il sera présent sous forme d'un [PDF](https://github.com/zakzaki244/zakzaki244/blob/main/CV-Zakaria-Informatique.pdf)
 
 ### NOM : BOUJETTIOUA
 ### Prénom : Zakaria
