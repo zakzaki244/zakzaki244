@@ -2,10 +2,11 @@
 
 # 👋 Hi, I'm Zakaria Boujettioua
 
-### Software Engineer · Backend & DevOps Enthusiast
+### Full-Stack Developer & Freelance · Building SaaS products from scratch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria%20Boujettioua-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakzaki244)
 [![GitHub](https://img.shields.io/badge/GitHub-zakzaki244-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakzaki244)
+[![Freelance](https://img.shields.io/badge/Freelance-Available-00C853?style=for-the-badge&logo=freelancer&logoColor=white)](#)
 
 </div>
 
@@ -13,35 +14,78 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** passionate about building robust, scalable systems.  
-I love turning complex problems into clean, maintainable code — from backend APIs to containerized infrastructure.
+I'm a **Full-Stack Developer** specialized in building complete SaaS products — from the first line of code to production.  
+I design and ship full-featured applications: mobile, web, serverless APIs, payment systems, AI integrations.
 
-- 🔭 Currently working on **backend & DevOps projects**
-- 🌍 Based in **Morocco**
-- 🛠️ Strong background in **Python** and **Docker/containerization**
-- 📬 Always open to new challenges and collaborations
+- 🌍 **Freelance** — I move around a lot, working remotely from wherever inspiration hits
+- 🏗️ I've built SaaS products end-to-end: **Calamar**, **Touchaura**, **ZBCreator**
+- ⚡ Comfortable on both **frontend** (React, Angular, Next.js, Ionic) and **backend** (Firebase, Supabase, Cloudflare Workers)
+- 🤖 I integrate AI features (OpenAI matching, generative tools) into real production apps
+- 💳 Experienced with payments: **Stripe**, **Stripe Connect**, subscriptions, webhooks
+- 📬 Open to challenging freelance missions and SaaS collaborations
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages**
+### 🖥️ Frontend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_18-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic_8-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**DevOps & Infrastructure**
+### ⚙️ Backend & Serverless
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js_20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 
-**Backend**
+### 🗄️ Databases & Storage
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🔗 Services & Integrations
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🦑 Calamar — SaaS Platform
+> **Angular 18 + Ionic 8 + Capacitor 7 · Firebase Functions (Node 20) · Firestore · OpenAI · Twilio · SendGrid**
+
+Full SaaS with mobile / PWA app, serverless backend on Firebase Functions, GCP integrations (Calendar, Scheduler, Tasks), AI features, push notifications and multi-language support.
+
+---
+
+### 🛍️ Touchaura — E-commerce Platform
+> **Next.js 16 + React 19 + Tailwind CSS v4 · Cloudflare Workers + Hono · D1 · R2 · Stripe · Resend**
+
+Complete e-commerce platform with a modern animated frontend (Three.js, Framer Motion), a serverless edge API, SQL database on Cloudflare D1, Stripe checkout & webhooks, and transactional emails.
+
+---
+
+### 🎨 ZBCreator — Creator × Freelancer SaaS
+> **React + TypeScript + Vite + Tailwind CSS · Supabase (PostgreSQL + Auth + Edge Functions) · Stripe Connect · OpenAI · Google Drive**
+
+SaaS marketplace connecting content creators and freelancers — AI-powered matching, mission management, collaborative Google Drive folders, Stripe Connect payouts, and a full admin dashboard.
 
 ---
 
@@ -59,16 +103,16 @@ I love turning complex problems into clean, maintainable code — from backend A
 
 ## 💡 My Philosophy
 
-> *"First, solve the problem. Then, write the code."*
+> *"Ship fast, iterate faster. The best code is the one that solves real problems in production."*
 
-I believe in **clean architecture**, **automation**, and **continuous learning**.  
-Every line of code I write is an opportunity to do it better than yesterday.
+I build products that work — end-to-end, from pixel-perfect UI to robust serverless backends.  
+I don't just write features; I think about architecture, scalability, and user experience at every step.
 
 ---
 
 <div align="center">
 
-⭐ **Feel free to explore my repositories and reach out for collaborations!**
+💼 **Looking for a reliable full-stack freelancer to build your next SaaS? Let's talk.**
 
 </div>
 
