@@ -69,15 +69,7 @@ I design and ship full-featured applications: mobile, web, serverless APIs, paym
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakzaki244&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats%20(incl.%20private%20repos)" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=zakzaki244&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakzaki244&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
