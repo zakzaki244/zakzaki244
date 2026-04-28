@@ -85,12 +85,4 @@ I design and ship full-featured applications: mobile, web, serverless APIs, paym
 I build products that work — end-to-end, from pixel-perfect UI to robust serverless backends.  
 I don't just write features; I think about architecture, scalability, and user experience at every step.
 
----
-
-<div align="center">
-
-💼 **Looking for a reliable full-stack freelancer to build your next SaaS? Let's talk.**
-
-</div>
-
 
