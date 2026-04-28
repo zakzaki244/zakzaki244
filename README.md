@@ -17,12 +17,12 @@
 I'm a **Full-Stack Developer** specialized in building complete SaaS products — from the first line of code to production.  
 I design and ship full-featured applications: mobile, web, serverless APIs, payment systems, AI integrations.
 
-- 🌍 **Freelance** — I move around a lot, working remotely from wherever inspiration hits
-- 🏗️ I've built SaaS products end-to-end: **Calamar**, **Touchaura**, **ZBCreator**
+- 🌍 **Freelance** — I'm always on the move, working remotely on various projects
+- 🏗️ I work on quite a few projects — web apps, mobile apps, SaaS platforms, you name it
 - ⚡ Comfortable on both **frontend** (React, Angular, Next.js, Ionic) and **backend** (Firebase, Supabase, Cloudflare Workers)
-- 🤖 I integrate AI features (OpenAI matching, generative tools) into real production apps
+- 🤖 I integrate AI features (OpenAI) into real production apps
 - 💳 Experienced with payments: **Stripe**, **Stripe Connect**, subscriptions, webhooks
-- 📬 Open to challenging freelance missions and SaaS collaborations
+- 📬 Open to challenging freelance missions and collaborations
 
 ---
 
@@ -63,29 +63,6 @@ I design and ship full-featured applications: mobile, web, serverless APIs, paym
 ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
----
-
-## 🏗️ Featured Projects
-
-### 🦑 Calamar — SaaS Platform
-> **Angular 18 + Ionic 8 + Capacitor 7 · Firebase Functions (Node 20) · Firestore · OpenAI · Twilio · SendGrid**
-
-Full SaaS with mobile / PWA app, serverless backend on Firebase Functions, GCP integrations (Calendar, Scheduler, Tasks), AI features, push notifications and multi-language support.
-
----
-
-### 🛍️ Touchaura — E-commerce Platform
-> **Next.js 16 + React 19 + Tailwind CSS v4 · Cloudflare Workers + Hono · D1 · R2 · Stripe · Resend**
-
-Complete e-commerce platform with a modern animated frontend (Three.js, Framer Motion), a serverless edge API, SQL database on Cloudflare D1, Stripe checkout & webhooks, and transactional emails.
-
----
-
-### 🎨 ZBCreator — Creator × Freelancer SaaS
-> **React + TypeScript + Vite + Tailwind CSS · Supabase (PostgreSQL + Auth + Edge Functions) · Stripe Connect · OpenAI · Google Drive**
-
-SaaS marketplace connecting content creators and freelancers — AI-powered matching, mission management, collaborative Google Drive folders, Stripe Connect payouts, and a full admin dashboard.
 
 ---
 
